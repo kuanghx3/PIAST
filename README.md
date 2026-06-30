@@ -135,14 +135,6 @@ If you find this work useful, please cite our paper:
 }
 ```
 
----
-
-## License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
----
-
 ## Acknowledgements
 
 This research was supported by the National Natural Science Foundation of China and the Guangdong Provincial Key Laboratory of Intelligent Transportation System.
