@@ -106,7 +106,6 @@ The model is tested under simulated price changes to evaluate its economic fidel
 
 ### Configuration
 
-Key hyperparameters can be configured in `config.yaml`:
 
 | Parameter | Default | Description |
 |-----------|---------|-------------|
